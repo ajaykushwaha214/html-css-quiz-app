@@ -4,7 +4,7 @@ This is my very first web development project. I created this simple and interac
 
 ## Live Demo
 
-👉 [Play Quiz Now https://ajaykushwaha214.github.io/html-css-quiz-app/ ]
+👉 [Play Quiz Now] (https://ajaykushwaha214.github.io/html-css-quiz-app/)
 
 ## About the Project 
 
